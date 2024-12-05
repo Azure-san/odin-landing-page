@@ -1,0 +1,96 @@
+body {
+    font-family: Roboto;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style: none;
+}
+
+ul a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header, .hero, .footer {
+    background-color: #1F2937;
+}
+
+.heros, .hlinks {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.heroh {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.placeholder {
+    color: #E5E7EB;
+}
+
+.herob {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+}
+
+.infoh {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.itext {
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.cquote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.qauthor {
+    font-weight: bold;
+}
+
+.bluebox {
+    background-color: #3882F6;
+}
+
+.call {
+    color: #F9FAF8;
+}
+
+.subcall {
+    color: #E5E7EB;
+}
+
+.acbutton {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.footer {
+    color: #E5E7EB;
+}
